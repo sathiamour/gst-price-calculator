@@ -4,7 +4,6 @@ const product = {
         originalPrice: 5031.31,  // Original price of the product before discount
         discount: 30,            // Discount percentage to be applied
         gst_percent: 0,          // GST percentage
-        is_gst_inclusive: false  // Indicates whether the price is GST inclusive (false means GST exclusive)
     }
 };
 
